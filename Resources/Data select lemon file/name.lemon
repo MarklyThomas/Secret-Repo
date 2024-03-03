@@ -4,10 +4,3 @@ function string ExtraChar.getCharacterName(u8 xtrachar)
         return "ES template"
     return base.ExtraChar.getCharacterName(xtrachar)
 }
-function string RenderExtraCharIcon(u8 xtrachar)
-{
-    if (xtrachar == 105)
-        return "Slot105S3c"
-
-    return base.RenderExtraCharIcon(xtrachar)
-}
