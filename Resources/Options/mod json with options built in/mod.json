@@ -1,0 +1,29 @@
+{
+	"Metadata":
+	{
+		"Name": "Extra Slot Template",
+		"Author": "Bluehotmess, Davil & iCloudius",
+		"Description": "Template.",
+		"URL": "E",
+		"ModVersion": "1.0",
+		"GameVersion": "21.09.12.0"
+	},
+	"Settings":
+	{
+		"Settings":
+		[
+			{
+				"InternalName": "Unique Template speed shoes",
+				"DisplayName": "Speed Shoes Icon",
+				"Variable": "Template_Speed_Shoes",
+				"DefaultValue": "0",
+				"Category": "Misc.",				
+				"Options":
+				{
+					"0": "Unique",
+					"1": "Default"
+				}
+			}
+		]
+	}
+}
